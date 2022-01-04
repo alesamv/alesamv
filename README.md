@@ -13,6 +13,11 @@ I love to build things for the Web. My favorites languages are Python and JavaSc
     </a>
 </div>
 
+#### What I'm doing now...
+- ⚛️ I'm currently studying to specialize in: **React.js**.
+- 🔨 I’m currently working on my portfolio, check out: https://alesamv.github.io/
+
+
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>  Tech
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
