@@ -5,10 +5,10 @@ I love to build things for the Web. My favorites languages are Python and JavaSc
 
 #### 📩 Contact me: 
 <div align="center">
-    <a href="https://www.linkedin.com/in/alesamv" target="blank">
+    <a href="https://www.linkedin.com/in/alesamv" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%23181818?logo=linkedin&style=for-the-badge"/>
     </a>
-    <a href="mailto:alesamv@gmail.com" target="blank">
+    <a href="mailto:alesamv@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
