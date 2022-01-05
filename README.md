@@ -1,6 +1,7 @@
-## Hi there, I'm Ale 👋
+<h2 align="center"> Hi 👋, I'm Ale </h2>
 
-#### I'm a Computer Engineer, currently training as a Frontend. 
+<h3 align="center"> I'm a Computer Engineer, currently training as a Frontend. </h3>
+ 
 I love to build things for the Web. My favorites languages are Python and JavaScript. But I love to create things with HTML and CSS 💖
 
 #### 📩 Contact me: 
@@ -38,18 +39,21 @@ I love to build things for the Web. My favorites languages are Python and JavaSc
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  
- #### Others
+ #### 🛠 Others
  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
  ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
  ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  
- ### My Stats
- <img width='500' src="https://github-readme-stats.vercel.app/api?username=alesamv" />
+ ### 📊 My Stats
 
+<div align="center">
+    <img width='500' src="https://github-readme-stats.vercel.app/api?username=alesamv&count_private=true&show_icons=true&theme=dracula" />
+</div>
 
 
 <!--
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alesamv&count_private=true&show_icons=true&theme=dracula)
   <img width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesamv" />
 <img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=alesamv" />
 <img width='500' src="https://activity-graph.herokuapp.com/graph?username=alesamv" />
