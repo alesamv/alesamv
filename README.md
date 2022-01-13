@@ -17,7 +17,7 @@ I love to build things for the Web. My favorites languages are Python and JavaSc
 #### What I'm doing now...
 - ⚛️ I'm currently studying to specialize in: **React.js**.
 - 🔨 I’m currently working on my portfolio, check out: https://alesamv.github.io/
-
+(If my portfolio isn't available yet, you can check some of my projects in my pinned repositories at the end of this page ⬇️⬇️)
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>  Tech
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
