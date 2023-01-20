@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Computer Engineer, currently training as a Frontend. </h3>
  
-I love to build things for the Web. My favorites languages are Python and JavaScript. But I love to create things with HTML and CSS 💖
+I love to build things for the Web. My favorites languages are JavaScript and Python. But I love to create things with HTML and CSS 💖
 
 #### 📩 Contact me: 
 <div align="center">
